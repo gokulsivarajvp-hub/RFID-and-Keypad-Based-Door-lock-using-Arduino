@@ -45,4 +45,5 @@ Step6: Design a suitable enclosure to house the Arduino and components, ensuring
 Step7: Install the system in a real-world setting and test its performance over time to ensure reliability and robustness. Adjust parameters like lock activation time, feedback duration, and system responsiveness based on user needs.
 
 VIII. CONCLUSION
+
 The implementation of an RFID and keypad-based door lock system using Arduino offers a practical, secure, and cost-effective solution for access control in residential, commercial, and institutional settings. By combining RFID technology with a numeric keypad, the system provides dual-factor authentication, enhancing security by requiring both an authorized RFID tag and a correct PIN for access. The use of the Arduino UNO as the central microcontroller simplifies the integration of components like the RFID reader, keypad, and locking mechanism, making the system highly customizable and scalable. Electronic lock systems are preferable over mechanical locks, to resolve the security problems that are associated with the mechanical locks.
